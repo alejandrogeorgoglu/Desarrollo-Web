@@ -1,0 +1,9 @@
+.fondonav {
+    background-color: rgb(179, 112, 112);
+}
+
+.nav {
+    display: flex;
+    justify-content: end;
+}
+
